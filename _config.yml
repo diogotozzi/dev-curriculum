@@ -6,23 +6,24 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
-author-title: Full Stack Developer
-gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
-bio: "Brazilian developer. Game, music and technology lover.
-      I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
-      exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
-      Mobile Development since 2015 as Freelancer and in some Brazilian companies too.
-      I'm the creator of CodeShare, a free portal with articles, videos, etc, about Software Development. The purpose of this project is to help people who want
-      to learn about Software Development and start their careers in IT area and to help people that already work with Software Development to improve their
-      technical knowledge to get better job opportunities.
-      I like to work with both: Front-End and Back-End development. I work with many languages, frameworks and technologies."
+author: Diogo Tozzi
+author-title: Back End Developer
+gravatar: 25239135ee6f94633feaf5a69da8bb14
+email: tozzi.diogo@gmail.com
+twitter: diogotozzi
+github: diogotozzi
+googleplus: 
+facebook: 
+linkedin: diogotozzi/en
+bio: "I am a PHP ZCE(Zend Certified Engineer) and PSM I(Professional Scrum Master), with almost 10 years of experience in backend web development.
+
+I work with agile methodologies like Scrum/XP and TDD design pattern, and I really believe in Lean Startup concept. Recently works has been guided with User Story Mapping methodology for a better understanding from user's point-of-view.
+
+Cloud AWS infrastructure like EC2/Docker images for servers, SQS/RabbitMQ for queues and messages systems, CloudFront/Varnish for caching, DynamoDB/MongoDB as non-Relational databases and Memcached has been an excellent tool.
+
+For Continuous Integration and Continuous Delivery: I've been working with Jenkins, Chef, Ansible and Capistrano.
+
+Other languages and tools: Javascript, Java, Python, NodeJS, Ruby, ReactJS, Capistrano, Jenkins, Thoughtworks GoCD, Git"
 
 # Skills
 #
