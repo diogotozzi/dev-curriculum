@@ -3,12 +3,12 @@
   "name": "CameraPrive",
   "icons": [
     {
-      "src": "test/image.png",
+      "src": "/test/image.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "test/image.png",
+      "src": "/test/image.png",
       "type": "image/png",
       "sizes": "512x512"
     }
