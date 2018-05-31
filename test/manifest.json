@@ -1,0 +1,21 @@
+{
+  "short_name": "CâmeraPrivê",
+  "name": "CâmeraPrivê",
+  "icons": [
+    {
+      "src": "/image.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/image.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/br/guys",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/br/guys/",
+  "theme_color": "#3367D6"
+}
