@@ -1,21 +1,21 @@
 {
-  "short_name": "CamraPrive",
+  "short_name": "CameraPrive",
   "name": "CameraPrive",
   "icons": [
     {
-      "src": "/image.png",
+      "src": "test/image.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/image.png",
+      "src": "test/image.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/br/guys",
-  "background_color": "#3367D6",
+  "start_url": "/test/index.html",
+  "background_color": "#750a5e",
   "display": "standalone",
-  "scope": "/",
-  "theme_color": "#3367D6"
+  "scope": "/test",
+  "theme_color": "#750a5e"
 }
