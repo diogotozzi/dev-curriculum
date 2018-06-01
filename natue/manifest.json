@@ -1,0 +1,21 @@
+{
+  "short_name": "Natue",
+  "name": "Natue - Suplementos",
+  "icons": [
+    {
+      "src": "/natue/image-small.svg",
+      "type": "image/png",
+      "sizes": "60x43"
+    },
+    {
+      "src": "/natue/image.png",
+      "type": "image/png",
+      "sizes": "700x700"
+    }
+  ],
+  "start_url": "/natue/index.html",
+  "background_color": "#72C44B",
+  "display": "standalone",
+  "scope": "/natue",
+  "theme_color": "#72C44B"
+}
